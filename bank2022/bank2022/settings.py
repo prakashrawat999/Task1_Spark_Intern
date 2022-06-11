@@ -27,9 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'taskonespark.herokuapp.com'
+
 ]
-
-
 # Application definition
 
 INSTALLED_APPS = [
